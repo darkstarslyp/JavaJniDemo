@@ -1,0 +1,3 @@
+jni/build
+java/com/demon/jni/*.class
+.DS_Store
